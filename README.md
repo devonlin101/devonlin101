@@ -22,9 +22,9 @@
   - ![50%](https://progress-bar.dev/50/) <a href='https://www.linux.org/' target='_blank'><img src='https://icongr.am/devicon/linux-original.svg?size=36&color=currentColor' /></a><a href='http://www.gnu.org/software/bash/' target='_blank'><img src="https://img.icons8.com/plasticine/100/000000/bash.png" width='35' height='35'/></a><a href='https://git-scm.com/' target='_blank'><img src="https://img.icons8.com/color/48/000000/git.png" width='35' height='35'/></a>
   - ![25%](https://progress-bar.dev/25/) <a href='https://www.hacker101.com/resources#2' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/hacker.png" width='35' height='35'/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0n1in&theme=chartreuse-dark&bg_color=22272e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonlin101&theme=chartreuse-dark&bg_color=22272e)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev0n1in&show_icons=true&theme=chartreuse-dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devonlin101&show_icons=true&theme=chartreuse-dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **devonlin/devonlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
