@@ -20,9 +20,9 @@
   - ![50%](https://progress-bar.dev/50/) <a href='https://www.linux.org/' target='_blank'><img src='https://icongr.am/devicon/linux-original.svg?size=36&color=currentColor' /></a><a href='http://www.gnu.org/software/bash/' target='_blank'><img src="https://img.icons8.com/plasticine/100/000000/bash.png" width='35' height='35'/></a><a href='https://git-scm.com/' target='_blank'><img src="https://img.icons8.com/color/48/000000/git.png" width='35' height='35'/></a>
   - ![25%](https://progress-bar.dev/25/) <a href='https://www.hacker101.com/resources#2' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/hacker.png" width='35' height='35'/></a>
 
-- 📫 How to reach me: 
-  - :telephone: : 210-956-3666  <br />
-  - :envelope_with_arrow: : devonlin101@gmail.com 
+- <h5> 📫 How to reach me:</h5> 
+   :telephone: : 210-956-3666  <br />
+   :envelope_with_arrow: : devonlin101@gmail.com 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonlin101&theme=chartreuse-dark&bg_color=22272e)
 
