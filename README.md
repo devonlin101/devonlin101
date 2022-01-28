@@ -1,12 +1,12 @@
 ###### 01101000 01101001 00100000 01110100 01101000 01100101 01110010 01100101 00101100 00100000 01101101 01111001 00100000 01101110 01100001 01101101 01100101 00100000 01101001 01110011 00100000 01001011 01100101 01110110 01101001 01101110 00100000 01001100 01101001 01101110 00101110 00100000 01001001 00100000 01100001 01101101 00100000 01100001 00100000 01110011 01100101 01101100 01100110 00101101 01110100 01100001 01110101 01100111 01101000 01110100 00100000 01100100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010 00101110
-#### 👋 hi there, my name is Kevin Lin. I am a self-taught developer. :smiley:
+#### 👋 hi there, my name is Kevin Lin. I am a self-taught developer.
 <hr>
 
    
 
  
-- 🔭 I’m currently working on ten javascript projects
-- 🌱 I’m currently learning <a href="https://javascript.info/"><img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor" /></a> <a href='https://www.typescriptlang.org/'><img src="https://icongr.am/devicon/typescript-original.svg?size=30&color=currentColor" /></a> <a href='https://reactjs.org/'><img src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor" /></a><a href='https://nextjs.org/'><img src='https://tkssharma.com/static/6038e35c19cde1cd7c3e89262a45a01d/1e9e2/nextjs.png' height='35' width='35' /></a><a href="https://nodejs.org/dist/latest-v17.x/docs/api/index.html"><img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor" /></a>
+- 🔭 I’m currently working on 10 nextjs projects
+- 🌱 I’m currently learning <a href="https://javascript.info/"><img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor" /></a> <a href='https://www.typescriptlang.org/'><img src="https://icongr.am/devicon/typescript-original.svg?size=30&color=currentColor" /></a> <a href='https://reactjs.org/'><img src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor" /></a><a href='https://nextjs.org/'><img src='https://tkssharma.com/static/6038e35c19cde1cd7c3e89262a45a01d/1e9e2/nextjs.png' height='35' width='35' /></a><a href="https://nodejs.org/dist/latest-v17.x/docs/api/index.html"><img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor" /></a><a href='https://www.mongodb.com/' target='_blank'><img src='https://icongr.am/devicon/mongodb-original.svg?size=35&color=currentColor' /></a>
 
 - ⚡ Fun fact: humorous game boy
 
