@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on 10 nextjs projects
 - 🌱 I’m currently learning <a href="https://javascript.info/"><img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor" /></a> <a href='https://www.typescriptlang.org/'><img src="https://icongr.am/devicon/typescript-original.svg?size=30&color=currentColor" /></a> <a href='https://reactjs.org/'><img src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor" /></a><a href='https://nextjs.org/'><img src='https://tkssharma.com/static/6038e35c19cde1cd7c3e89262a45a01d/1e9e2/nextjs.png' height='35' width='35' /></a><a href="https://nodejs.org/dist/latest-v17.x/docs/api/index.html"><img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor" /></a><a href='https://www.mongodb.com/' target='_blank'><img src='https://icongr.am/devicon/mongodb-original.svg?size=35&color=currentColor' /></a><a href='https://www.prisma.io/'><img src='https://devicons.railway.app/i/prisma-light.svg' height='35' width='35' /></a><a href='https://www.postgresql.org/' target='_blank'><img src='https://devicons.railway.app/i/postgresql.svg' height='35' width='35' /></a>
 
-- ⚡ Fun fact: humorous game boy
+- ⚡ Fun fact: clever humorous game man
 
 - 💻 **my skillsets:**
   - ![95%](https://progress-bar.dev/95/) <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a><a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="35" height="35"/> </a>  
