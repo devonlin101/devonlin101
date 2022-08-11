@@ -1,14 +1,14 @@
 
 ## 👋 Hi there, my name is Kevin Lin. I am a self-taught developer.
    <details>
-      <summary>:nerd_face: I Speak Binary</summary>
+      <summary>:sunglasses: I Speak Binary</summary>
   
 <a href="https://www.convertbinary.com/to-text/" target="_blank">01101000 01101001 00100000 01110100 01101000 01100101 01110010 01100101 00101100 00100000 01101101 01111001 00100000 01101110 01100001 01101101 01100101 00100000 01101001 01110011 00100000 01001011 01100101 01110110 01101001 01101110 00100000 01001100 01101001 01101110 00101110 00100000 01001001 00100000 01100001 01101101 00100000 01100001 00100000 01110011 01100101 01101100 01100110 00101101 01110100 01100001 01110101 01100111 01101000 01110100 00100000 01100100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010 00101110</a>
    </details>
    
 ##
-- 🔭 I’m currently working on 10 nextjs projects
-- 🌱 I’m currently learning
+- :open_file_folder: I’m currently working on 10 nextjs projects
+- :pencil: I’m currently learning
    - [ ] <a href='https://https://next-auth.js.org/'><img src='https://next-auth.js.org/img/logo/logo-sm.png' width='20' height='20' title='nextAuth library'></a>
    - [ ] <a href='https://stripe.com/'><img src='https://icons-for-free.com/download-icon-card+payment+stripe+icon-1320186320984111427_512.png' width='20' height='20' title='stripe payment'></a>
    - [ ] <a href='https://nextjs.org/'><img src='https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67' title='nextjs react framework' height='20' width='20' /></a>
@@ -27,10 +27,10 @@
    - ![50%](https://progress-bar.dev/50/)    <a href='https://nodejs.org/en/' target='_blank'><img src='https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor' width="20" height="20" /></a><a href='https://www.rust-lang.org/' target='_blank'><img src='https://www.rust-lang.org/logos/rust-logo-64x64.png' width='20' height='20'/></a>
    - ![25%](https://progress-bar.dev/25/)     <a href='https://www.hacker101.com/resources#2' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/hacker.png" width='20' height='20'/></a><a href='https://webassembly.org/' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/240px-WebAssembly_Logo.svg.png' width='20' height='20'/></a>
 
--  ⚡ Fun fact: a clever humorous gamer.
--  <h5> 📫 How to reach me:</h5> 
-   :telephone:: 210-956-3666<br/>
-   :envelope_with_arrow:: devonlin101@gmail.com 
+-  :video_game: Fun fact: a clever humorous gamer.
+-  <h5> :mailbox_with_mail: How to reach me:</h5> 
+   :iphone:: 210-956-3666<br/>
+   :email:: devonlin101@gmail.com 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonlin101&theme=chartreuse-dark&bg_color=22272e)
 
