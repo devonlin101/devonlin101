@@ -7,7 +7,6 @@
    </details>
    
 ##
-- :open_file_folder: I’m currently working on configuring and setting up neovim for typescript and rust developments.
 - :pencil: I’m currently learning <a href='https://next-auth.js.org/'><img src='https://next-auth.js.org/img/logo/logo-sm.png' width='20' height='20' title='nextAuth library'></a> <a href='https://stripe.com/'><img src='https://icons-for-free.com/download-icon-card+payment+stripe+icon-1320186320984111427_512.png' width='20' height='20' title='stripe payment'></a> <a href='https://nextjs.org/'><img src='https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67' title='nextjs react framework' height='20' width='20' /></a> <a href='https://www.prisma.io/'><img src='https://devicons.railway.app/i/prisma-light.svg' title='prisma ORM' height='20' width='20' /></a>  <a href='https://www.typescriptlang.org/' target='_blank'><img src='https://icongr.am/devicon/typescript-original.svg?size=35&color=currentColor' width="20" height="20" /></a> <a href='https://www.rust-lang.org/' target='_blank'><img src='https://www.rust-lang.org/logos/rust-logo-64x64.png' width='20' height='20'/></a>
   
   
