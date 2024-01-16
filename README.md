@@ -24,7 +24,6 @@
    :email:: devonlin101@gmail.com 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonlin101&theme=chartreuse-dark&bg_color=22272e)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devonlin101&show_icons=true&theme=chartreuse-dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **devonlin/devonlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
