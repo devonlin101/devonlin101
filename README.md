@@ -7,7 +7,7 @@
    </details>
    
 ##
-- :pencil: I’m currently learning <a href='https://leetcode.com/'><img src='https://github.com/devonlin101/devonlin101/assets/91753702/5dedd2a8-6ab0-472f-a75c-592c4ff33a68' title='leetcode' height='20' width='20' /></a> <a href='https://linuxjourney.com/'><img src='https://devicons.railway.app/i/tux.svg' width='20' height='20' title='linux'></a><a href='https://cmake.org/'><img src='https://devicons.railway.app/i/cmake.svg' title='cmake' height='20' width='20' /></a> <a href='https://www.learncpp.com/'><img src='https://devicons.railway.app/i/cplusplus.png' width='20' height='20' title='c++'></a>    <a href='https://www.rust-lang.org/' target='_blank'><img src='https://www.rust-lang.org/logos/rust-logo-64x64.png' width='20' height='20'/></a>
+- :pencil: I’m currently learning <a href='https://leetcode.com/'><img src='https://github.com/devonlin101/devonlin101/assets/91753702/5dedd2a8-6ab0-472f-a75c-592c4ff33a68' title='leetcode' height='20' width='20' /></a> <a href='https://linuxjourney.com/'><img src='https://devicons.railway.app/i/tux.svg' width='20' height='20' title='linux'></a><a href='https://cmake.org/'><img src='https://devicons.railway.app/i/cmake.svg' title='cmake' height='20' width='20' /></a> <a href='https://www.learncpp.com/'><img src='https://devicons.railway.app/i/cplusplus.png' width='20' height='20' title='c++'></a>    <a href='https://www.rust-lang.org/' target='_blank'><img src='https://www.rust-lang.org/logos/rust-logo-64x64.png' width='20' height='20'/></a> <a href='https://www.hacker101.com/resources#2' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/hacker.png" width='20' height='20'/></a>
   
   
  
