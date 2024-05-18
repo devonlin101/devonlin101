@@ -7,7 +7,7 @@
    </details>
    
 ##
-- :pencil: I’m currently learning <a href='https://leetcode.com/'><img src='https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/305317853_616467910000160_3824851731065368025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_aid=0&_nc_ohc=zOVdfKmZDYsQ7kNvgFBjrO1&_nc_ht=scontent-iad3-2.xx&oh=00_AfAn3lIoOi8soh0ozJtl9GKmQLRaiN1AF1gRdgERBE8MSg&oe=6638579B' width='25' height='25' /></a>
+- :pencil: I’m currently learning <a href='https://leetcode.com/'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlI3qE2Xdavy6gsBu_8BR_9v8DCh-Ka757ukCHbWTg&s' width='25' height='25' /></a>
  <a href='https://kubernetes.io/'><img src='https://devicons.railway.app/i/kubernetes.svg' width='20' height='20' title='kubernetes' /></a><a href='https://www.docker.com/'><img src='https://devicons.railway.app/i/docker.svg' width='25' height='25' title='docker'></a><a href='https://linuxjourney.com/'><img src='https://devicons.railway.app/i/tux.svg' width='20' height='20' title='linux'></a><a href='https://www.learncpp.com/'><img src='https://devicons.railway.app/i/cplusplus.png' width='20' height='20' /></a><a href='https://www.rust-lang.org/' target='_blank'><img src='https://www.rust-lang.org/logos/rust-logo-64x64.png' width='20' height='20'/></a> <a href='https://www.hacker101.com/resources#2' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/hacker.png" width='20' height='20'/></a>
   
   
