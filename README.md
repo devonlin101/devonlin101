@@ -2,7 +2,7 @@
 ## 👋 Hi there, my name is Devon Lin. I am a self-taught developer.
    
 
-- :pencil: I’m currently learning <a href='https://nuxt.com/'><img src='https://devicons.railway.com/i/nuxtjs.svg' width='20' height='20' /></a><a href='https://leetcode.com/'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlI3qE2Xdavy6gsBu_8BR_9v8DCh-Ka757ukCHbWTg&s' width='25' height='25' /></a><a href='https://www.learncpp.com/'><img src='https://devicons.railway.app/i/cplusplus.png' width='20' height='20' /></a><a href='https://www.rust-lang.org/' target='_blank'><img src='https://www.rust-lang.org/logos/rust-logo-64x64.png' width='20' height='20'/></a> 
+- :pencil: I’m currently learning <a href='https://nuxt.com/'><img src='https://devicons.railway.com/i/nuxtjs.svg' width='20' height='20' /></a><a href='https://leetcode.com/'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlI3qE2Xdavy6gsBu_8BR_9v8DCh-Ka757ukCHbWTg&s' width='25' height='25' /></a><a href='https://www.learncpp.com/'><img src='https://devicons.railway.app/i/cplusplus.png' width='20' height='20' /></a>
   
   
  
